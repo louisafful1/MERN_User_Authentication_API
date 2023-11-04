@@ -1,6 +1,6 @@
 ### MERN User Authentication API
 
-A backend-only web application that provides user authentication and registration features using the MERN stack. This project serves as a foundation for implementing user management in web applications. It leverages JSON Web Tokens (JWT) for secure HTTP-based authentication and has been tested with Postman for comprehensive validation.
+A backend web application that provides user authentication features using the MERN stack. It leverages JSON Web Tokens (JWT) for secure HTTP-based authentication and has been tested with Postman for comprehensive validation.
 
 ### Features
 User Authentication: Users can log in using their email and password, and a JSON Web Token (JWT) is generated for authentication.
